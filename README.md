@@ -1,4 +1,4 @@
-# music_control_raspberry_pi_mm
+# Scripts for controlling music with Magic Mirror / Google Assistant
 
 These are some scripts to play music on your Rasperry Pi / Magic Mirror, you can even program your google assistant to run these scripts
 with the personalised traits.
