@@ -1,3 +1,7 @@
+# Program that detects when an usb is plugged, makes a playlist of all mp3 files in it and starts playing music.
+# I used it with magic mirror + google assistant to be able to control the music by voice commands.
+# Ahmed Amrani
+
 import pyudev
 import psutil
 import time
